@@ -1,4 +1,7 @@
 ---
+genres:
+  - arcade
+  - action
 directors_cut: https://stab.paulu.cz/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
